@@ -1,17 +1,17 @@
-.logo {
-    width: 120px;
-    height: auto;
-    margin-bottom: 20px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    filter: drop-shadow(0 0 10px rgba(212,175,55,0.4));
+
 }
 body {
 margin: 0;
 font-family: Arial, sans-serif;
 background: #f6f6f6;
 color: #222;
+}
+.logo {
+    width: 180px;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+    filter: drop-shadow(0 0 20px rgba(212,175,55,0.35));
 }
 
 /* HERO */
