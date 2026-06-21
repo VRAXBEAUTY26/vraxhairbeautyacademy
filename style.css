@@ -86,11 +86,12 @@ position: sticky;
 top: 0;
 }
 
-.nav a {
-color: white;
-margin: 0 12px;
-text-decoration: none;
-font-size: 14px;
+.nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 18px;
+    letter-spacing:1px;
+    font-weight:600;
 }
 
 .nav a:hover {
