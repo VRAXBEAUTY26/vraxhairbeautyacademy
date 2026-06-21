@@ -9,8 +9,10 @@ color: #222;
 .logo{
     width:220px;
     max-width:90%;
+    height:auto;
+    margin-bottom:25px;
+    filter:drop-shadow(0 0 20px rgba(212,175,55,.35));
 }
-
 /* HERO */
 .hero{
     background:
