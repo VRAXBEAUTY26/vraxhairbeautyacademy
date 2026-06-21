@@ -7,11 +7,10 @@ background: #f6f6f6;
 color: #222;
 }
 .logo{
-    width:220px;
-    max-width:90%;
-    height:auto;
-    margin-bottom:25px;
-    filter:drop-shadow(0 0 20px rgba(212,175,55,.35));
+width:300px;
+height:auto;
+margin-bottom:30px;
+filter:drop-shadow(0 0 30px rgba(212,175,55,.45));
 }
 /* HERO */
 .hero{
@@ -24,7 +23,7 @@ color: #222;
 
     color:#d4af37;
     text-align:center;
-    padding:120px 20px;
+    padding:180px 20px;
 }
 
 .hero h1 {
