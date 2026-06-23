@@ -151,10 +151,11 @@ color: #d4af37;
 
 /* PILLARS */
 .pillar-grid {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-gap: 20px;
-margin-top: 30px;
+display:grid;
+grid-template-columns: repeat(2, 1fr);
+gap:25px;
+max-width:900px;
+margin:30px auto;
 }
 
 .pillar {
@@ -163,6 +164,7 @@ padding: 25px;
 border-radius: 15px;
 box-shadow: 0 10px 25px rgba(0,0,0,0.05);
 transition: 0.3s ease;
+min-height:180px; 
 }
 
 .pillar:hover {
