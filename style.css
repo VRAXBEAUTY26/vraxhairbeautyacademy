@@ -192,3 +192,27 @@ text-align: center;
 padding: 30px;
 font-size: 14px;
 }
+ul {
+list-style:none;
+padding:0;
+}
+
+li {
+margin:10px 0;
+}
+
+.featured h2,
+.community h2,
+section h2 {
+margin-bottom:30px;
+}
+
+.product-card h3,
+.pillar h3 {
+color:#d4af37;
+}
+
+.product-card,
+.pillar {
+border-radius:15px;
+}
